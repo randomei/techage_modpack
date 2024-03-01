@@ -1,0 +1,142 @@
+# textdomain: hyperloop
+
+
+
+### booking.lua ###
+
+Station data is corrupted. Please rebuild the station!=Данные о станции повреждены. Пожалуйста перестройте станцию!
+Station is still blocked. Please try again in a few seconds!=Станция еще заблокирована. Попробуйте еще раз через несколько секунд!
+
+### booking_node.lua ###
+
+Please enter the station name to@nwhich this booking machine belongs.=Пожалуйта, введите название станции,@nк которой принадлежит эта касса.
+Station name=Название станции
+Additional station information=Доп. информация о станции
+Station has already a booking machine!=У станции уже есть билетная касса!
+Invalid station name!=Неверное название станции!
+Hyperloop Booking Machine=билетная касса гиперпетли
+
+### booking_node.lua ###
+### elevator.lua ###
+
+Select your destination=Выберите назначение
+
+### booking_node.lua ###
+### migrate.lua ###
+
+<unknown>=<неизвестно>
+
+### deco.lua ###
+
+Hyperloop Promo Poster =Промо постер гиперпетли
+Hyperloop Station Sign=знак станции гиперпетли
+Hyperloop Station Sign Right=знак станции гиперпетли вправо
+Hyperloop Station Sign Left=знак станции гиперпетли влево
+
+### door.lua ###
+
+The Booking Machine for this station is missing!=
+Hyperloop Door Top=верх двери гиперпетли
+Hyperloop Door Bottom=низ двери гиперпетли
+
+### elevator.lua ###
+
+Hyperloop Elevator Shaft=шахта лифта гиперпетли
+Destination=Назначение
+Floor=Этаж
+(current position)=(текущая позиция)
+Hyperloop Elevator=лифт гиперпетли
+Please insert floor name=Введите название этажа
+Floor name=Название этажа
+Base=основание
+
+### elevator.lua ###
+### wifi.lua ###
+
+Save=Сохранить
+
+### junction.lua ###
+
+Station connected with =Станция соединена с 
+Junction connected with =Узел содинен с 
+Hyperloop Junction Block=узловой блок гиперпетли
+Hyperloop Pillar=колонна гиперпетли
+
+### junction.lua ###
+### migrate.lua ###
+
+Junction=Узел
+
+### lcd.lua ###
+
+Hyperloop Display=экран гиперпетли
+
+### map.lua ###
+
+Dist.=Расст.
+Station/Junction=Станция/Узел
+Position=Позиция
+Owner=Владелец
+Conn. with=Соед. с
+Close=Закрыть
+Hyperloop Station Book=книга станций гиперпетли
+
+### migrate.lua ###
+
+Hyperloop Legacy Tube=
+unknown=
+
+### recipes.lua ###
+### station.lua ###
+
+Hypersteel Ingot=слиток гиперстали
+
+### seat.lua ###
+
+[Hyperloop] No booking entered!=
+Hyperloop Pod Seat=сиденье капсулы гиперпетли
+
+### station.lua ###
+
+Station completed. Now place the Booking Machine!=Станция создана. Теперь разместите билетную кассу!
+Area is protected!=Зона защищена!
+Not enough space to build the station!=Не достаточно места для постройки станции!
+Hyperloop Station Pod Builder=строитель капсулы станции гиперпетли
+Hyperloop Pod Shell=оболочка капсулы гиперпетли
+Blue Wool=Синяя шерсть
+Glass=Стекло
+Not enough inventory items to build the station!=Не достаточно предметов для постройки станции!
+Destroy Station=Уничтожить станцию
+Build Station=Построить станцию
+Hyperloop Station Block=блок станции гиперпели
+Station=Станция
+
+### tube.lua ###
+
+Junction at =Узел у 
+Station '=Станция '
+Station at =Станция у 
+Open end at =Открытый конец у 
+There is no station/junction on this level. =Нет станции/узла на этом уровне.
+Do you really want to start a new network?!=Вы действительно хотите начать новую сеть?!
+Hyperloop Tube=труба гиперпетли
+
+### tubecrowbar.lua ###
+
+[Hyperloop] Error: Tube is too long!=
+[Crowbar Help]@n=
+    left: remove node@n=
+    right: repair tube/shaft line@n=
+You don't have the necessary privs!=
+Hyperloop Tube Crowbar=монтировка для труб гиперпетли
+Rights to remove tube nodes by means of the crowbar=
+Repair via WorldEdit placed Hyperloop tubes by reusing WorldEdit pos1/pos2=
+
+### waypoint.lua ###
+
+Hyperloop Waypoint=точка назначения гиперпетли
+
+### wifi.lua ###
+
+Enter channel string=
+Hyperloop WiFi Tube=
